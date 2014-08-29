@@ -1,0 +1,26 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Test">
+        <CheckBoxPreference
+            android:key="PREF_CHECKBOX"
+            android:title="Tryb testowy"
+            android:summary="Testowanie aplikacji, przerwa 10s, praca 30s" />
+    </PreferenceCategory>
+    <ListPreference
+        android:key="pref_work_list"
+        android:title="Czas pracy"
+        android:summary="Wybierz jak długo chcesz pracować"
+        android:dialogTitle="Czas pracy"
+        android:entries="@array/workvalues_title"
+        android:entryValues="@array/workvalues"
+        android:defaultValue="1" />
+    <ListPreference
+        android:key="pref_break_list"
+        android:title="Czas przerwy"
+        android:summary="Wybierz jak długo ma trwać przerwa"
+        android:dialogTitle="Czas przerwy"
+        android:entries="@array/breakvalues_title"
+        android:entryValues="@array/breakvalues"
+        android:defaultValue="1" />
+</PreferenceScreen>

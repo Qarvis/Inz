@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="7"
+    android:id="@+id/achive_content">
+
+
+    <LinearLayout
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="6"
+        >
+    <TextView
+        android:id="@+id/achive_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tytuł"
+        android:textSize="20sp"
+        android:paddingLeft="10dp">
+    </TextView>
+
+        <TextView
+        android:id="@+id/achive_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Opis"
+        android:textSize="10sp"
+            android:paddingLeft="10dp">
+    </TextView>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/achive_points"
+        android:layout_width="0dip"
+        android:layout_height="fill_parent"
+        android:text="PT"
+        android:textSize="30sp"
+        android:layout_gravity="right"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:paddingRight="10dp">
+    </TextView>
+
+
+    </LinearLayout>

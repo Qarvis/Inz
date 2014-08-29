@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\IT\AndroidstudioProjects\Inz\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-20354c49c6c4d1888e67d2b4329806d520f10cd9.jar"
+        jar="C:\IT\Android\adt-bundle-windows-x86_64-20140321\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156"/>
+    <item
+        dex="C:\IT\AndroidstudioProjects\Inz\app\build\intermediates\pre-dexed\debug\classes-6c6598356dda945085911c49c806911dc3d2ed37.jar"
+        jar="C:\IT\AndroidstudioProjects\Inz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77"/>
+
+</pre-dex-items>

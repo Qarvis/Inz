@@ -1,0 +1,27 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/user_points"
+        android:title="0 ptk"
+        android:showAsAction="always"
+        android:orderInCategory="1"
+        android:enabled="false"/>
+
+    <item android:id="@+id/menu_bookmark"
+        android:icon="@drawable/icon_bookmark"
+        android:title="Wyjście"
+        android:showAsAction="never"
+        android:orderInCategory="9999" />
+
+    <item android:id="@+id/menu_preferences"
+        android:icon="@drawable/icon_preferences"
+        android:title="Ustawienia"
+        android:showAsAction="ifRoom"
+        android:orderInCategory="2" />
+
+    <item android:id="@+id/new_quest"
+        android:icon="@drawable/ic_new"
+        android:title="Dodaj misję"
+        android:showAsAction="always"
+        android:orderInCategory="2" />
+</menu>

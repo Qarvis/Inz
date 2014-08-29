@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="breakvalues_title">
+        <item>1 min</item>
+        <item>2 min</item>
+        <item>3 min</item>
+    </string-array>
+    <string-array name="breakvalues">
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+    </string-array>
+    <string-array name="workvalues_title">
+        <item>35 min</item>
+        <item>40 min</item>
+        <item>45 min</item>
+        <item>50 min</item>
+        <item>55 min</item>
+        <item>60 min</item>
+    </string-array>
+    <string-array name="workvalues">
+        <item>2100</item>
+        <item>2400</item>
+        <item>2700</item>
+        <item>3000</item>
+        <item>3300</item>
+        <item>3600</item>
+
+
+    </string-array>
+</resources>

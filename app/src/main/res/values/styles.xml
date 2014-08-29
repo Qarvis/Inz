@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="normalText" parent="@android:style/TextAppearance">
+        <item name="android:textSize">19sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="blinkText" parent="normalText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FF0000</item>
+    </style>
+
+
+
+</resources>

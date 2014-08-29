@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest>
+    <task>
+        <id>1</id>
+        <name>Nauka</name>
+        <desc>Naucz się czegoś pożytecznego</desc>
+        <points>7</points>
+    </task>
+    <task>
+        <id>2</id>
+        <name>Książka</name>
+        <desc>Poczytaj książkę przez 10 minut</desc>
+        <points>4</points>
+    </task>
+</quest>

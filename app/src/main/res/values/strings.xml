@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start_fragment">StartFragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alertdialogfragment">Open Alert DialogFragment</string>
+    <color name="quest_ok">#ff7caf63</color>
+    <color name="quest_not_ok">#ffaf867e</color>
+    <color name="trans">#00000000 </color>
+    <integer name="def_workvalues">1</integer>
+
+</resources>
